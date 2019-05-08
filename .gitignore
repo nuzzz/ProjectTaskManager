@@ -63,4 +63,4 @@ buildNumber.properties
 /out/
 
 # config file
-/src/main/resources/config.properties
+config.properties
