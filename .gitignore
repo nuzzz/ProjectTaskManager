@@ -61,3 +61,6 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 
 /out/
+
+# config file
+/src/main/resources/config.properties
