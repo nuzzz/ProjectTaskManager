@@ -1,3 +1,5 @@
+package com.conspec;
+
 import java.util.logging.Logger;
 
 public class Main {
@@ -6,8 +8,9 @@ public class Main {
 
     public static void main(String[] args) {
         ProjectTaskManager ptm = new ProjectTaskManager();
+
         ptm.run();
-        LOGGER.info("ProjectTaskManager.run() executing... ");
+        LOGGER.info("com.conspec.ProjectTaskManager.run() executing... ");
     }
 
 

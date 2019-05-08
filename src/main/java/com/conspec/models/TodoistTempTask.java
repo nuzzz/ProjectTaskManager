@@ -1,7 +1,6 @@
-package com.conspec.model;
+package com.conspec.models;
 
 import java.time.LocalDate;
-import java.util.List;
 import java.util.Set;
 
 public class TodoistTempTask {

@@ -1,4 +1,4 @@
-package com.conspec.model;
+package com.conspec.models;
 
 public class TodoistDue {
 	private String date;
